@@ -4,3 +4,7 @@ Programs that bypass web forms provided by the University of Mumbai to access fi
 Doodle Cheats contain:
 => A programs that plays google basketball doodle. (Doodle1.java)
 => A programs that simulates left-right keystrokes for the hurdles doodle. (Doodle.java)
+
+Tag Modifier:
+A program that changes title, artist and album information of mp3 files in 'Title' case. 
+The program uses eyeD3 library to acess ID3 metadata.
